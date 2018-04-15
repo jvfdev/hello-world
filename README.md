@@ -3,10 +3,10 @@ Initial Test Repository
 This readme file is set up to learn how to use GitHub
 
 Test Images
-![alt text here](https://i.imgur.com/FxW4say.gifv)
+![](https://i.imgur.com/NDBB96K.png)
 
 
 
 <p align="center">
-  <img src="https://i.imgur.com/FxW4say.gifv" width="350"/>
+  <img src="https://i.imgur.com/NDBB96K.png" width="350"/>
 </p>
